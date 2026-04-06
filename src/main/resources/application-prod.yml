@@ -1,0 +1,4 @@
+management:
+  metrics:
+    tags:
+      application: bet-task-prod
